@@ -1,4 +1,4 @@
-# Arduino Examples [![License MIT][badge-license]](LICENSE.txt)
+# Arduino Examples [![License MIT][badge-license]](LICENSE)
 A collection of simple Arduino projects with lights, buttons and others.
 
 1. __[Light led while pressing button](https://github.com/jimouris/arduino-examples/tree/master/led-while-pressing-button)__
