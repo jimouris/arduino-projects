@@ -11,6 +11,7 @@ A collection of simple Arduino projects with lights, buttons and others.
 
 1. __[Traffic Lights, 3 Leds](https://github.com/jimouris/arduino-examples/tree/master/traffic-lights)__
 
+1. __[Potentiometer Led Array, N Leds, 1 Potentiometer](https://github.com/jimouris/arduino-examples/tree/master/potentiometer-led-array)__
 
 
 [badge-license]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
